@@ -33,7 +33,9 @@ Includes geophysical parameters like magnitude, depth, soil type, latitude, long
 
 🏗️ System Architecture
 
-![System Architecture](./system_architecture.png)
+<p align="center">
+  <img src="./system_architecture.png" alt="System Architecture" width="600"/>
+</p>
 
 
 Modules to be implemented:
